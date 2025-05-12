@@ -33,7 +33,9 @@ Flashback ke 1950, Alan Turing nanya, “Bisa nggak sih mesin berpikir?” Dia c
 
 ## Ini lho dia Alan Turing asli nya yang ngasih ide AI
 
+![PHOTOALAN](https://github.com/arry-hutomo/STORY-OF-AI/blob/main/Alan%20Turing%20Photo.png)
 
+---
 ## Ini movie-nya, coba search di youtube trailer nya yah :  
 [LINK_HERE](https://www.youtube.com/watch?v=ESIzi1Lhl58)
 
