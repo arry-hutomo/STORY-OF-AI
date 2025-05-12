@@ -22,7 +22,7 @@ Tujuannya apa? Biar kalian, para *eco-techno leader*, bisa bikin solusi AI yang 
 
 ### 1.1 Natural vs. Artificial Intelligence 🤖
 
-Oke, bro, otak manusia itu kayak superhero tanpa jubah 🦸‍♂️. Kita bisa nyanyi 🎤, nyetir 🚗, nulis puisi ✍️, bahkan bikin teknologi canggih – ini namanya *natural intelligence*, kemampuan kita buat belajar dari pengalaman. Contoh epic? Gutenberg’s Printing Press di tahun 1440, mesin yang bikin ilmu nyebar cepet 📖, tapi nggak bisa “belajar” kayak kita. Nah, AI adalah usaha manusia buat bikin mesin yang niru otak kita pake kode dan data. Keren, kan? 😎  
+Oke, guys, otak manusia itu kayak superhero tanpa jubah 🦸‍♂️. Kita bisa nyanyi 🎤, nyetir 🚗, nulis puisi ✍️, bahkan bikin teknologi canggih – ini namanya *natural intelligence*, kemampuan kita buat belajar dari pengalaman. Contoh epic? Gutenberg’s Printing Press di tahun 1440, mesin yang bikin ilmu nyebar cepet 📖, tapi nggak bisa “belajar” kayak kita. Nah, AI adalah usaha manusia buat bikin mesin yang niru otak kita pake kode dan data. Keren, kan? 😎  
 
 **Contoh buat Eco-Techno Leader**: Bayangin kalian bikin AI buat ngatur lampu pintar di kota 💡. AI ini belajar dari pola penggunaan listrik biar nyala cuma pas dibutuhin, hemat energi, dan kurangin emisi. Sustainable city, here we come! 🌆  
 **Insight Tambahan**: Nggak jago coding? Chill, bro! 😌 Pakai platform *no-code* kayak Bubble atau Adalo buat bikin aplikasi AI sederhana. Merasa “tua”? Umur cuma angka! Banyak leader senior yang sukses pake AI dengan belajar step-by-step. Open mind, keep learning, and you’re golden! 🇮🇩
@@ -44,14 +44,14 @@ Flashback ke 1950, Alan Turing nanya, “Bisa nggak sih mesin berpikir?” Dia c
 
 ### 1.3 Demystifying AI, Data Science, Machine Learning, and Deep Learning 📊
 
-AI itu luas, bro, kayak samudra 🌊. *Data Science* adalah ilmu buat nyari pola dari data pake statistik dan visualisasi 📈. *Machine Learning (ML)* adalah bagian AI yang bikin mesin belajar dari data tanpa diprogram detail – kayak ngajarin anak kecil pake contoh 🍎. *Deep Learning* adalah ML yang pake jaringan saraf tiruan, terinspirasi dari otak manusia 🧠, buat tugas berat kayak deteksi gambar atau bahasa. Jadi, AI adalah payung besar, ML dan DL adalah cabang-cabangnya!  
+AI itu luas, guys, kayak samudra 🌊. *Data Science* adalah ilmu buat nyari pola dari data pake statistik dan visualisasi 📈. *Machine Learning (ML)* adalah bagian AI yang bikin mesin belajar dari data tanpa diprogram detail – kayak ngajarin anak kecil pake contoh 🍎. *Deep Learning* adalah ML yang pake jaringan saraf tiruan, terinspirasi dari otak manusia 🧠, buat tugas berat kayak deteksi gambar atau bahasa. Jadi, AI adalah payung besar, ML dan DL adalah cabang-cabangnya!  
 
-**Contoh buat Eco-Techno Leader**: Pake DL buat analisis gambar satelit 🌍, deteksi deforestasi, dan bantu bikin kebijakan pelestarian hutan. Bumi kita butuh ini, bro! 🌳  
+**Contoh buat Eco-Techno Leader**: Pake DL buat analisis gambar satelit 🌍, deteksi deforestasi, dan bantu bikin kebijakan pelestarian hutan. Bumi kita butuh ini, guys! 🌳  
 **Insight Tambahan**: Bingung mulai dari mana? Coba kursus online gratisan kayak Coursera atau Fast.ai – gampang kok! Nggak ada kata terlambat buat belajar AI, asal semangat nyala terus! 🇮🇩
 
 ### 1.4 Weak vs Strong AI 💪
 
-*Weak AI* itu AI yang fokus ke satu tugas, kayak Siri yang jawab pertanyaan 📱 atau AI di lampu pintar. *Strong AI* (atau General AI) adalah impian masa depan – mesin yang bisa mikir kayak manusia buat segala hal, dari nyanyi sampe nyanyi lagi 🎶. Sekarang kita masih di era *Weak AI*, tapi langkah menuju *Strong AI* udah dimulai!  
+*Weak AI* itu AI yang fokus ke satu tugas, kayak Siri (yang punya iphone atau perangkat buatan Apple.Inc) yang jawab pertanyaan 📱 atau AI di lampu pintar. *Strong AI* (atau General AI) adalah impian masa depan – mesin yang bisa mikir kayak manusia buat segala hal, dari nyanyi sampe nyanyi lagi 🎶. Sekarang kita masih di era *Weak AI*, tapi langkah menuju *Strong AI* udah dimulai!  
 
 **Contoh buat Eco-Techno Leader**: Weak AI bisa bantu ngatur sistem irigasi pintar 💧 berdasarkan data cuaca, hemat air, dan dukung pertanian sustainable. Kecil-kecil cabe rawit, bro! 🌶️  
 **Insight Tambahan**: Mulai dari yang kecil aja, bro, nggak perlu takut sama yang gede. Tiap langkah kecil bawa kalian lebih deket ke masa depan AI. Kalian bisa, guys! 🇮🇩
