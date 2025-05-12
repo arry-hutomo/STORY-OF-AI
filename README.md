@@ -27,8 +27,14 @@ Oke, bro, otak manusia itu kayak superhero tanpa jubah 🦸‍♂️. Kita bisa 
 
 Flashback ke 1950, Alan Turing nanya, “Bisa nggak sih mesin berpikir?” Dia ciptain *Turing Test* buat ngetes apakah mesin bisa ngobrol kayak manusia 🗣️. Di 1956, istilah “AI” lahir di Dartmouth Conference – kayak ultahnya AI gitu 🎂. Tapi, di 60-70an, AI masuk *AI Winter* karena teknologi dan data masih cupu 😅. Baru di 1997, Deep Blue dari IBM ngalahin juara catur Garry Kasparov, bikin AI naik daun 🌟. Di 2006, Geoffrey Hinton bikin gebrakan lewat *deep learning*, dan di 2017, *transformers* dari Google Brain lahirin AI kayak ChatGPT. Dari mimpi jadi kenyataan, bro! ✨  
 
+## Ini lho dia Alan Turing asli nya yang ngasih ide AI
+
+
+## Ini movie-nya, coba search di youtube trailer nya yah :  
+[LINK_HERE](https://www.youtube.com/watch?v=ESIzi1Lhl58)
+
 **Contoh buat Eco-Techno Leader**: Pake *transformers* buat bikin AI yang prediksi pola cuaca ekstrem 🌩️. Bantu petani atur waktu tanam biar hasil panen maksimal dan kurangin risiko gagal panen. Climate-smart farming, let’s go! 🌧️  
-**Insight Tambahan**: Nggak perlu jadi programmer buat ikut main di AI. Tools kayak Google Teachable Machine bisa latih model AI cuma dengan *drag-and-drop* 🖱️. Umur? Irrelevant, bro! Banyak komunitas AI ngasih kursus gratis buat semua usia. Stay curious, and you’ll slay! 🇮🇩
+**Insight Tambahan**: Nggak perlu jadi programmer buat ikut main di AI. Tools kayak Google Teachable Machine bisa latih model AI cuma dengan *drag-and-drop* 🖱️. Umur? Irrelevant, guys! Banyak komunitas AI ngasih kursus gratis buat semua usia. Stay curious, and you’ll slay! 🇮🇩
 
 ### 1.3 Demystifying AI, Data Science, Machine Learning, and Deep Learning 📊
 
