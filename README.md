@@ -39,6 +39,8 @@ Flashback ke 1950, Alan Turing nanya, “Bisa nggak sih mesin berpikir?” Dia c
 ## Ini movie-nya, coba search di youtube trailer nya yah :  
 [LINK_HERE](https://www.youtube.com/watch?v=ESIzi1Lhl58)
 
+![IMITATION](https://github.com/arry-hutomo/STORY-OF-AI/blob/main/The%20imitation%20Game.jpg)
+
 **Contoh buat Eco-Techno Leader**: Pake *transformers* buat bikin AI yang prediksi pola cuaca ekstrem 🌩️. Bantu petani atur waktu tanam biar hasil panen maksimal dan kurangin risiko gagal panen. Climate-smart farming, let’s go! 🌧️  
 **Insight Tambahan**: Nggak perlu jadi programmer buat ikut main di AI. Tools kayak Google Teachable Machine bisa latih model AI cuma dengan *drag-and-drop* 🖱️. Umur? Irrelevant, guys! Banyak komunitas AI ngasih kursus gratis buat semua usia. Stay curious, and you’ll slay! 🇮🇩
 
