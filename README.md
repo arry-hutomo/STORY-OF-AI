@@ -8,13 +8,17 @@ Buka petualangan AI karya Arry Hutomo (Tim ECC, Nawala Integra Nusantara). Paham
 
 ## Intro: Petualangan AI Dimulai, Bro! 🚀
 
+![INTROAI](https://github.com/arry-hutomo/STORY-OF-AI/blob/main/This%20is%20story%20of%20AI.png)
+
+---
+
 Bayangin, guys, kalian lagi buka buku petualangan tentang **Artificial Intelligence (AI)** yang ditulis sama **Arry Hutomo** dari **Tim ECC dan Founder Komunitas Nawala Integra Nusantara**. Ini bukan cuma dokumen biasa, bro, tapi kayak peta harta karun 🗺️ buat ngerti AI dari nol sampe jadi master! Mulai dari bedanya *natural* sama *artificial intelligence*, sejarah AI yang bikin melongo 😮, sampe teknik canggih kayak *deep learning* dan *generative AI*.  
 
 Tujuannya apa? Biar kalian, para *eco-techno leader*, bisa bikin solusi AI yang bikin bumi lebih hijau 🌍, energi lebih hemat ⚡, dan teknologi lebih sustainable. Nggak perlu takut kalau kalian nggak jago coding atau merasa “udah tua” – ilmu ini buat semua umur, bro! Dengan mindset terbuka, kalian bisa pake tools AI yang gampang banget kayak *no-code platforms*. So, siap-siap catet insight kece ini, ya! 💪
 
 ---
 
-## Bagian 1: Getting Started – Ngenalin AI dengan Vibe Santai 🧠
+## Bagian 1: Getting Started – Ngenalin AI (Just for U)  🧠
 
 ### 1.1 Natural vs. Artificial Intelligence 🤖
 
